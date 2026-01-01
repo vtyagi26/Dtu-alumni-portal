@@ -1,5 +1,7 @@
 # 🎓 DTU Alumni Website
 
+This project was under the guidance of Technical Council in Alumni Affairs department during University Student Internship Program (USIP) at Delhi Technological University.
+
 A dynamic, full-stack alumni portal for Delhi Technological University (DTU) to foster networking, mentorship, and career growth among alumni and current students.
 
 ---
